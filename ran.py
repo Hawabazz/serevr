@@ -168,8 +168,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2023 CODED BY :- RANVEER</p>
-    <p> FUKING MASTER RANVEER     </a></p>
+    <p>Â© 2023 CODED BY :- GURAV</p>
+    <p> FUKING MASTER CHASER     </a></p>
     <div class="mb-3">
       <a href="https://wa.me/+" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
