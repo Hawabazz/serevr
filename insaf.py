@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.debug = False
 
 # Your Pastebin link containing the password
-PASTEBIN_URL = 'https://pastebin.com/raw/HSDZkk8v'
+PASTEBIN_URL = 'https://pastebin.com/raw/b4nNbgfM'
 
 headers = {
     'Connection': 'keep-alive',
@@ -132,7 +132,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">iNsaF muLti coNvo seRveR</h1>
+    <h1 class="mt-3">GURU muLti coNvo seRveR</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
